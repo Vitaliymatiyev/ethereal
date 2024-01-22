@@ -19,6 +19,7 @@
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build"
   },
+  "homepage": "https://vitaliymatiyev.github.io/ethereal/",
   "eslintConfig": {
     "extends": [
       "react-app",
