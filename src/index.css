@@ -12,6 +12,7 @@ body {
   background-image: url('./Ethereal_darker.png');
   background-repeat: no-repeat;
   background-size: cover;
+  background: linear-gradient( rgba(0, 0, 0, 0.805), rgba(0, 0, 0, 0.805) ), url('./Ethereal_darker.png');
 
 }
 
